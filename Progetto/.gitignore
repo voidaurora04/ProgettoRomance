@@ -1,0 +1,7 @@
+# Chiavi API (File sensibile)
+KEY.env
+
+# File di sistema e cartelle di Python
+__pycache__/
+.venv/
+.DS_Store
